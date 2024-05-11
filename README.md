@@ -3,22 +3,22 @@
 ## Executive Summary
 This report provides an overview of vulnerabilities discovered during the ethical hacking assessment conducted on [Organization Name]'s network and systems. The assessment aimed to identify security weaknesses and provide recommendations for remediation to enhance the organization's security posture.
 
-## Vulnerabilities Discovered
+## Vulnerabilities Summary
 
-1. **Outdated Software Versions:**
-2. Several systems were found to be running outdated software versions, including operating systems, web servers, and applications.
-3. **Weak Passwords:**
-4. Many user accounts were found with weak passwords, including default credentials and easily guessable passwords.
-5. **Unpatched Systems:**
-6. Numerous systems lacked critical security patches, leaving them vulnerable to known exploits and attacks.
-7. **Open Ports and Services:**
-8. Unnecessary ports and services were discovered open on various systems, increasing the attack surface.
-9. **Lack of Network Segmentation:**
-10. The network lacked proper segmentation, allowing attackers to move laterally across systems once access is gained.
-11. **Insecure Configuration:**
-12. Misconfigured security settings were identified on network devices, servers, and applications, leading to potential security breaches.
-13. **Missing Security Controls:**
-14. Some systems lacked essential security controls such as intrusion detection/prevention systems and endpoint protection solutions.
+### Outdated Software Versions
+   * Several systems were found to be running outdated software versions, including operating systems, web servers, and applications.
+### Weak Passwords:**
+   * Many user accounts were found with weak passwords, including default credentials and easily guessable passwords.
+### Unpatched Systems
+   * Numerous systems lacked critical security patches, leaving them vulnerable to known exploits and attacks.
+### Open Ports and Services
+   * Unnecessary ports and services were discovered open on various systems, increasing the attack surface.
+### Lack of Network Segmentation
+   * The network lacked proper segmentation, allowing attackers to move laterally across systems once access is gained.
+### Insecure Configuration
+   * Misconfigured security settings were identified on network devices, servers, and applications, leading to potential security breaches.
+### Missing Security Controls
+   * Some systems lacked essential security controls such as intrusion detection/prevention systems and endpoint protection solutions.
 15. **Insufficient Access Controls:**
 16. Weak access controls were observed, allowing unauthorized users to gain access to sensitive data and systems.
 17. **Inadequate Logging and Monitoring:**
