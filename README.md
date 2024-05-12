@@ -1,10 +1,10 @@
-### Ethical Hacking Technical Report
-### Client: [Shoppe]
-### Date: [May 11, 2024]
-### Prepared by: [Joana Marie S. Ailes] and [Veberly B. Barrio]
+#### Ethical Hacking Technical Report
+#### Client: [Shoppe]
+#### Date: [May 11, 2024]
+#### Prepared by: [Joana Marie S. Ailes] and [Veberly B. Barrio]
 
 
-### Vulnerability Summary
+#### Vulnerability Summary
 
 ## Outdated Software Versions
 
@@ -47,7 +47,7 @@
   * The network lacked proper segmentation, allowing attackers to move laterally across systems once access is gained.
 Recommendation: Implement network segmentation to isolate critical systems and limit the lateral movement of attackers in the event of a breach.
 
-### Recommendation
+#### Recommendation
 
 ## Outdated Software Versions
 
